@@ -1,0 +1,27 @@
+# General
+.AppleDouble
+.DS_Store
+.LSOverride
+.idea
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.fseventsd
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+.apdisk
+Network Trash Folder
+Temporary Items
