@@ -1,4 +1,4 @@
-FROM php:7.2-fpm-buster
+FROM php:7.4-fpm-buster
 MAINTAINER Son T. Tran <contact@trants.io>
 
 RUN apt-get update \
